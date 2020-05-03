@@ -1,4 +1,9 @@
 # Android-Maps
+API's used-
+1. Places API
+2. Directions API
+3. Maps SDK for Android
+
 Functionalities-
 1. Autocomplete Suggestions
 2. Calculate distance and between current and destination location
