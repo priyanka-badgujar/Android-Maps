@@ -1,0 +1,55 @@
+
+—
+java:S1186S"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(½ë¿í
+\
+java:S2259¿"EA "NullPointerException" could be thrown; "iStream" is nullable here.(ÀÙõù
+<
+java:S3398¤"%Move this method into "DownloadTask".(­„××
+A
+java:S5411ã"*Use the primitive boolean expression here.(˜åÍÎ
+F
+java:S2093¨"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+B
+java:S1659Q"'Declare "placeTime" on a separate line.(Å¿…°ûÿÿÿÿ
+=	java:S131Ì""Add a default case to this switch.(×ö³–úÿÿÿÿ
+V	java:S125I"<This block of commented-out lines of code should be removed.(ôý€ìùÿÿÿÿ
+
+java:S1450L"kRemove the "mFusedLocationProviderClient" field and declare it as a local variable in the relevant methods.(¾àŸ£
+h
+java:S1128!"MRemove this unused import 'com.google.android.gms.maps.model.CameraPosition'.(åµ­êýÿÿÿÿ
+l	java:S117Ž"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›¢£óÿÿÿÿÿ
+g
+java:S1301Ì"KReplace this "switch" statement by "if" statements to increase readability.(×ö³–úÿÿÿÿ
+W	java:S125å"<This block of commented-out lines of code should be removed.(»¤¥âúÿÿÿÿ
+F
+java:S1659Q"+Declare "placeDistance" on a separate line.(Å¿…°ûÿÿÿÿ
+
+java:S4165Ñ"yRemove this useless assignment; "mLocationPermissionsGranted" already holds the assigned value along all execution paths.(²Þ¢±
+I
+java:S1659Q".Declare "placeInfoSubText" on a separate line.(Å¿…°ûÿÿÿÿ
+?
+java:S1148ä"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+b
+java:S1128#"GRemove this unused import 'com.google.android.gms.maps.model.Polyline'.(°óÚ›üÿÿÿÿ
+I
+java:S1199Í"-Extract this nested code block into a method.(»ÎÏÿÿÿÿÿ
+J
+java:S1128"4Remove this unused import 'android.util.TypedValue'.(é¸Óû
+R
+java:S2696ì"6Make the enclosing method "static" or remove this set.(•¼Äˆùÿÿÿÿ
+R	java:S125ª"<This block of commented-out lines of code should be removed.(ƒéÜ’
+R
+java:S2696£"6Make the enclosing method "static" or remove this set.(ñ¢Ä²üÿÿÿÿ
+Q	java:S125ì"<This block of commented-out lines of code should be removed.(àº…2
+I
+java:S1128"3Remove this unused import 'android.view.ViewGroup'.(‹îá
+@
+java:S5411Y"*Use the primitive boolean expression here.(˜åÍÎ
+U
+java:S1128":Remove this unused import 'android.widget.RelativeLayout'.(ü¯ðõþÿÿÿÿ
+v
+java:S1149±"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
+E
+java:S1659M"/Declare "destinationLatLng" on a separate line.(Óã½š
+g	java:S117‹"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰ã„Å
+l	java:S117Ä"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚’äúÿÿÿÿ
